@@ -30,6 +30,18 @@ This project was designed to simulate marketing budget optimization scenarios an
 
 ---
 
+## 🎯 Business Objective
+
+The objective of this project is to evaluate marketing acquisition efficiency, identify underperforming channels, optimize budget allocation, and simulate revenue forecasting scenarios using Marketing Mix Modeling (MMM) principles and business intelligence analytics.
+
+The system helps answer critical business questions such as:
+- Which marketing channels generate the highest ROI?
+- Where is acquisition spend inefficient?
+- How should budget be reallocated to maximize revenue efficiency?
+- Which channels should be scaled, reduced, or optimized?
+
+---
+
 ## 📊 Dashboard Walkthrough
 
 ### 📈 Executive Performance Overview
@@ -75,6 +87,20 @@ Support marketing investment decisions using scenario-based forecasting.
 
 ---
 
+## 🧠 Analytical Framework
+
+This project combines multiple analytical approaches:
+
+- Marketing Mix Modeling (MMM)
+- Revenue forecasting
+- Marginal ROI simulation
+- Budget optimization analysis
+- Customer acquisition cost analysis
+- Conversion efficiency diagnostics
+- Scenario-based forecasting
+
+The framework evaluates both current marketing efficiency and projected revenue impact under different budget allocation strategies.
+
 ## 🖼️ Dashboard Preview
 
 ### 📊 Executive Overview
@@ -85,20 +111,6 @@ Support marketing investment decisions using scenario-based forecasting.
 
 ### 📈 Scenario Analysis
 ![Scenario Analysis](dashboard/scenario_analysis.png)
-
----
-
-## 🧠 Analytical Framework
-
-The project combines:
-- Marketing Mix Modeling (MMM)
-- Revenue forecasting
-- Scenario analysis
-- Marginal ROI simulation
-- Customer acquisition cost analysis
-- Channel efficiency diagnostics
-
-to evaluate marketing investment performance and optimize revenue growth strategies.
 
 ---
 
@@ -213,20 +225,18 @@ This system enables:
 
 ---
 
-## Recommendations
+## 📈 Executive Recommendations
 
-### 🚀 Strategic Recommendations
+- Increase investment in Email and Referral campaigns due to stronger marginal ROI efficiency and lower acquisition costs.
 
-1. Reallocate incremental budget toward Email and Referral campaigns to maximize projected ROI efficiency.
+- Reduce exposure to channels with elevated CAC and weaker conversion performance, particularly LinkedIn campaigns.
 
-2. Reduce investment exposure to underperforming channels with elevated CAC and weaker marginal returns.
+- Continuously monitor marginal ROI before scaling acquisition spend to avoid diminishing return inefficiencies.
 
-3. Continuously monitor channel-level conversion efficiency and marginal ROI performance before scaling spend.
+- Combine MMM with cohort and retention analysis to improve lifecycle visibility and long-term revenue forecasting.
 
-4. Combine revenue forecasting with scenario analysis to improve long-term marketing investment planning.
-
-5. Use cohort and lifecycle analysis alongside MMM to improve attribution and retention visibility.
-
+- Use scenario analysis to guide future GTM investment and budget allocation decisions.
+  
 ---
 
 ## Future Enhancements
