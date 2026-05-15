@@ -1,7 +1,7 @@
 # 📊 Marketing Mix Modeling & Revenue Optimization System
 
-### 📈 Scenario Induced Analysis
-![Scenario Analysis](dashboard/scenario_analysis.png)
+### 📈 Scenario Induced Dashboard
+![Scenario Induced Dashboard](dashboard/scenario_outcome.png)
 
 ## Executive Summary
 
