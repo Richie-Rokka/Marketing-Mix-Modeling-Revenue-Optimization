@@ -1,8 +1,8 @@
 # 📊 Marketing Mix Modeling & Budget Optimization Dashboard
 
-## Overview
+## 🚀 Overview
 
-🚀 This project is an end-to-end Marketing Mix Modeling (MMM) and Budget Optimization solution built in Power BI. The dashboard was designed to simulate how organizations can monitor marketing performance, diagnose channel efficiency, forecast revenue outcomes, and optimize budget allocation using scenario analysis.
+This project is an end-to-end Marketing Mix Modeling (MMM) and Budget Optimization solution built in Power BI. The dashboard was designed to simulate how organizations can monitor marketing performance, diagnose channel efficiency, forecast revenue outcomes, and optimize budget allocation using scenario analysis.
 
 The solution combines:
 
@@ -72,16 +72,23 @@ This dashboard was built to simulate a practical business intelligence solution 
 Interactive sliders allow users to simulate:
 
 **Budget increases**
+
 **Budget reductions**
+
 **Reallocation strategies**
+
 **Incremental investment scenarios**
 
 Across:
 
 **Email**
+
 **Referral**
+
 **Google**
+
 **Facebook**
+
 **LinkedIn**
 
 - Forecasted Revenue Simulation: Projects future revenue outcomes based on optimized spend allocation assumptions.
@@ -96,14 +103,13 @@ Across:
 ## 🖼️ Dashboard Preview
 
 ### 📊 Executive Overview
-![Executive Summary]()
+![Executive Summary](dashboard/executive_overview.png)
 
 ###   Performance Diagnostics
-![Performance Diagnostics]()
+![Performance Diagnostics](dashboard/performance_diagnostics.png)
 
 ### 📈 Optimization Forecasting
-![Optimization Forecasting](<img width="478" height="274" alt="optimization_forecasting" src="https://github.com/user-attachments/assets/aa03dd48-d938-4ae3-9763-f330e5c377ba" />
-)
+![Optimization Forecasting](dashboard/optimization_forecasting.png)
 
 ---
 
